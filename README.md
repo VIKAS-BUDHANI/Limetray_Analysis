@@ -36,8 +36,17 @@ Based on churned customers
   
   ![image](https://user-images.githubusercontent.com/111237089/218788480-b664d664-a9cf-4eaa-adeb-162567165895.png)
   
- Reasons for churned
+  Reasons for churned
  
- ![image](https://user-images.githubusercontent.com/111237089/218787585-dc185b1a-6793-4e1c-a73e-68ac8deb7ff2.png)
-
+  ![image](https://user-images.githubusercontent.com/111237089/218787585-dc185b1a-6793-4e1c-a73e-68ac8deb7ff2.png)
   
+  Responsible SM 114- AM 18
+              SM 151 - AM 13
+              SM 55 - AM 7
+
+ * In 2016 2.42% customer churned
+   
+   ![image](https://user-images.githubusercontent.com/111237089/218789415-42e4549e-2aea-42dd-b1dd-6af972f4d7bc.png)
+   
+   
+    
