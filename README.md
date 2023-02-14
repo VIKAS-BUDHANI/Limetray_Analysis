@@ -35,7 +35,7 @@ Based on churned customers
 * In 2015 - 1.74% churned customers 
  ![image](https://user-images.githubusercontent.com/111237089/218788480-b664d664-a9cf-4eaa-adeb-162567165895.png)
   
-  Reasons for churned
-  ![image](https://user-images.githubusercontent.com/111237089/218787585-dc185b1a-6793-4e1c-a73e-68ac8deb7ff2.png)
+ Reasons for churned
+ ![image](https://user-images.githubusercontent.com/111237089/218787585-dc185b1a-6793-4e1c-a73e-68ac8deb7ff2.png)
 
   
