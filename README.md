@@ -28,3 +28,13 @@ Based on churned customers
 
 ### The Trend showes in 2017 to 2018 there are lot clients were in panding to on baord
 ![image](https://user-images.githubusercontent.com/111237089/218782998-720d016f-acf4-412e-bf54-52dfc330df6f.png)
+
+## Churned Reasons and  responsible SM/AM mangers of the client  and total MRR losses
+* In 2014 there are 0 client hoe churned
+
+* In 2015 - 1.74% churned customers 
+  ![image](https://user-images.githubusercontent.com/111237089/218786395-f765b4a8-141f-4a73-b38b-f69c521226eb.png)
+  
+  Reasons for churned ![image](https://user-images.githubusercontent.com/111237089/218787585-dc185b1a-6793-4e1c-a73e-68ac8deb7ff2.png)
+
+  
