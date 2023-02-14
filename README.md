@@ -48,5 +48,13 @@ Based on churned customers
    
    ![image](https://user-images.githubusercontent.com/111237089/218789415-42e4549e-2aea-42dd-b1dd-6af972f4d7bc.png)
    
+   Reasons for churned
    
+   ![image](https://user-images.githubusercontent.com/111237089/218790911-405f5f73-1fe8-4b7f-8339-52bcdf2dbc3d.png)
+
+    
+  SM and AM responsible
+  
+  ![image](https://user-images.githubusercontent.com/111237089/218791033-5e639043-a1d4-48f1-85cb-229b297ca388.png)
+
     
