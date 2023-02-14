@@ -7,10 +7,10 @@
 LimeTray is a product-startup helping restaurants market, engage and sell to more customers online. 6 out of 10 restaurants shut down in less than an year of starting up & this is not because they serve bad food or are expensive but because they fail to reach out to enough customers to cover costs.
 
 
-##Objective of the project -:
-* Comapny losing there clients they want to know the excat reason and responsable managers for the clients.
-* How much the client declaying in every year.
-* what was the MMR amount for losing clients 
+## Objective of the project -:
+* Comapny losing there clients they want to know the excat reason of the churned clients and responsable managers for the clients.
+* How much the client churned rate in every year.
+* what was the MMR amount for churned clients 
 
 
 
