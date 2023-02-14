@@ -57,4 +57,32 @@ Based on churned customers
   
   ![image](https://user-images.githubusercontent.com/111237089/218791033-5e639043-a1d4-48f1-85cb-229b297ca388.png)
 
+
+ * In 2017 4.06% customer churned
+   
+   ![image](https://user-images.githubusercontent.com/111237089/218791438-857cac31-8a78-416d-9d77-232924343f31.png)
+   
+   Reasons for churned
+   
+   ![image](https://user-images.githubusercontent.com/111237089/218791480-6aceddaf-031b-4f1c-919a-b03133cf5540.png)
+
+    
+  SM and AM responsible
+  
+  ![image](https://user-images.githubusercontent.com/111237089/218791559-8ad94e2c-ab50-4912-9c94-d6ba5859460c.png)
+  
+  
+ 
+
+ * In 2018 60.13% customer churned
+   ![image](https://user-images.githubusercontent.com/111237089/218791737-8fc279f0-e6b4-4f16-894c-b6d855d4f763.png)
+   
+   Reasons for churned
+   
+   ![image](https://user-images.githubusercontent.com/111237089/218791770-71c3c299-1caa-46ae-9015-bcab011dea84.png)
+
+    
+  SM and AM responsible
+  
+  ![image](https://user-images.githubusercontent.com/111237089/218791816-618e1270-6aaa-4ba7-9c98-79899b3f71f7.png)
     
