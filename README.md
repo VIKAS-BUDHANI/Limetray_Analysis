@@ -17,7 +17,7 @@ The dashbaord contain the 2014 to 2018 data
 
 For refrence see the screenshot of dashbaord
 Based on churned customers
-![image](https://user-images.githubusercontent.com/111237089/218780423-eadb4cef-74dd-40b2-b4a6-e5f22a13691d.png)
+![image](https://user-images.githubusercontent.com/111237089/218783325-8c349814-6b0f-4aab-99ad-d19c47129d4b.png)
 
 ## We can see the trend of Status 
 ###  Client Churned Trend highest in 2018
