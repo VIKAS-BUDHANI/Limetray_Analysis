@@ -13,15 +13,11 @@ LimeTray is a product-startup helping restaurants market, engage and sell to mor
 * what was the MMR amount for churned clients 
 
 ## Dynamic DashBoard
-The dashbaord contain the 
+The dashbaord contain the 2014 to 2018 data
 
-
-
-
-
-
-
-
+For refrence see the screenshot of dashbaord
 Based on churned customers
 ![image](https://user-images.githubusercontent.com/111237089/218780423-eadb4cef-74dd-40b2-b4a6-e5f22a13691d.png)
 
+
+![image](https://user-images.githubusercontent.com/111237089/218781518-674d36c5-62f2-4693-97a5-df6a5400344a.png)
