@@ -8,7 +8,7 @@ LimeTray is a product-startup helping restaurants market, engage and sell to mor
 
 
 ## Objective of the project -:
-* Comapny losing there clients they want to know the excat reason of the churned clients and responsable managers for the clients.
+* Comapny losing there clients they want to know the exact reason of the churned clients and responsable managers for the clients.
 * How much the client churned rate in every year.
 * what was the MMR amount for churned clients 
 
