@@ -23,8 +23,6 @@ Based on churned customers
 https://user-images.githubusercontent.com/111237089/219699482-84992c88-51fb-4565-b46c-d1b705f39e5f.mp4
 
 
-![image](https://user-images.githubusercontent.com/111237089/218783972-2d50ed03-2a27-4564-b0bf-cff2a9cb4c06.png)
-
 ## We can see the trend of Status 
 ###  Client Churned Trend highest in 2018
 ![image](https://user-images.githubusercontent.com/111237089/218784047-2f79d11a-8073-4bbf-a4a4-84b77cb88f2d.png)
