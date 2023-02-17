@@ -8,11 +8,6 @@ LimeTray is a product-startup helping restaurants market, engage and sell to mor
 
 
 
-https://user-images.githubusercontent.com/111237089/219699482-84992c88-51fb-4565-b46c-d1b705f39e5f.mp4
-
-
-
-
 ## Objective of the project -:
 * Comapny losing there clients they want to know the exact reason of the churned clients and responsable managers for the clients.
 * How much the client churned rate in every year.
@@ -23,6 +18,11 @@ The dashbaord contain the 2014 to 2018 data
 
 For refrence see the screenshot of dashbaord
 Based on churned customers
+
+
+https://user-images.githubusercontent.com/111237089/219699482-84992c88-51fb-4565-b46c-d1b705f39e5f.mp4
+
+
 ![image](https://user-images.githubusercontent.com/111237089/218783972-2d50ed03-2a27-4564-b0bf-cff2a9cb4c06.png)
 
 ## We can see the trend of Status 
